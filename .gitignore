@@ -5,3 +5,4 @@ CommonLibs.Tests/.vs/*
 CommonLibs/bin/*
 CommonLibs/obj/*
 CommonLibs/.vs/*
+/CommonLibs/.vs/CommonLibs/v16/.suo
