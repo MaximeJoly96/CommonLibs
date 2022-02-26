@@ -1,0 +1,7 @@
+CommonLibs.Tests/bin/*
+CommonLibs.Tests/obj/*
+CommonLibs.Tests/.vs/*
+
+CommonLibs/bin/*
+CommonLibs/obj/*
+CommonLibs/.vs/*
